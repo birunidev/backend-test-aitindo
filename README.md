@@ -1,5 +1,8 @@
 # Documentation
 
+Live Frontend URL: [Open](https://aitindo-todo-web-app.vercel.app)
+Live Backend URL: [Open](https://birunidev.my.id/api)
+
 ### Backend
 
 Requirement:
@@ -83,7 +86,7 @@ REACT_APP_API_URL=http://localhost:8000/api
 # API DOCUMENTATION
 
 ###Get All Todos:
-URL: http://localhost:8000/api/todos/all
+URL: https://birunidev.my.id/api/todos/all
 method: GET
 
 ##### Example Response
@@ -104,7 +107,7 @@ method: GET
 ```
 
 ###Get Todo by Label:
-URL: http://localhost:8000/api/todos
+URL: https://birunidev.my.id/api/todos
 method: GET
 
 ##### Example Response
@@ -156,7 +159,7 @@ method: GET
 ```
 
 ###Create a Todo:
-URL: http://localhost:8000/api/todos
+URL: https://birunidev.my.id/api/todos
 method: POST
 
 ##### Example Request
@@ -191,7 +194,7 @@ method: POST
 ```
 
 ###Update a Todo:
-URL: http://localhost:8000/api/todos/{id}
+URL: https://birunidev.my.id/api/todos/{id}
 method: PUT
 
 ##### Example Request
@@ -226,7 +229,7 @@ method: PUT
 ```
 
 ###Delete a Todo:
-URL: http://localhost:8000/api/todos/{id}
+URL: https://birunidev.my.id/api/todos/{id}
 method: DELETE
 
 ##### Example Response
